@@ -9,3 +9,5 @@ The program is writen in python with jupyter tool suite.
 	In this case we started with 6405008 entries, now we have 6402165.
 	All anomalous entries remain stored in the ./partitioned folder and can be used for closer inspection.
 
+3. The re-read data (from dataFrame newdf) is uploaded to sql database
+
