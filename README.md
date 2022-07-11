@@ -15,3 +15,8 @@ The program is writen in python with jupyter tool suite.
 
 ER diagram:
 ![ERD photo](/ERD.PNG)
+Prerequisites:
+```
+pip install pandas
+pip install sqlalchemy
+```
