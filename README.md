@@ -13,3 +13,5 @@ The program is writen in python with jupyter tool suite.
 	Implementation is reusable - if, let's say we want to add another dataframe of dates 2020-02, we can change the part_files to "./paritioned/*2020-02&/*".
 	When loading to database, we use if_exists = 'apend', so new data can be added to existing database.
 
+ER diagram:
+![ERD photo](/ERD.PNG)
